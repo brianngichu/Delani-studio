@@ -55,3 +55,21 @@ body{
     position: relative;
     transition: 0.5s;
 }
+.about-us > h1,.text2 > h1,.portfolio > h1{
+    text-align: center;
+
+}
+.about-us >p,.text2 > p{
+    padding-left: 30px;
+}
+#agile{
+    text-align: center;
+}
+.approach{
+    padding-left: 100px;
+    
+}
+.text2{
+    margin-top: -280px;
+    color: white;
+}
