@@ -34,3 +34,20 @@ body{
     z-index: -2;
     
 }
+#mouse-click{
+    padding-left: 25px;
+}
+@keyframes slide{
+    0% { transform: translateY(10%);}
+    50%{ transform: translateY(0%);}
+    100%{ transform: translateY(10%);}
+     }
+#mouse-click:hover{
+    animation-name: slide;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: none;
+    animation-direction: normal;
+    animation-play-state: running;
+    animation-timing-function: ease-in-out;
+}
