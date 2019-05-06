@@ -13,3 +13,24 @@ body{
     color: white;
     position: absolute;
 }
+#welcome{
+    margin-left: -40px;
+    font-family: 'Arvo', serif;
+}
+#to{
+    padding-left: 10px;
+    font-family: 'Arvo', serif;
+}
+#delani{
+    margin-left: -60px;
+    font-family: 'Arvo', serif;
+}
+#paragraph1{
+    margin-left: -160px;
+    font-family: 'Arvo', serif;
+}
+#background-image2{
+    position: relative;
+    z-index: -2;
+    
+}
