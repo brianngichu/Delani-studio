@@ -3,3 +3,8 @@ body{
     width: 100%;
     position: relative;
 }
+.page1{
+    position: relative;
+    transition: 0.5s;
+ 
+}
